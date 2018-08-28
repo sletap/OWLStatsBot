@@ -4,7 +4,9 @@ An Overwatch Statistics bot that pulls statistics on Overwatch League players fr
 ## Getting Started 
 There are two different standalone files that are capable of extracting information. OWLSiteStats and OverGGStats. OWLSiteStats is preferred, as it has the most content, but OverGG contains some released players that are no longer on the OWL website.
 
-Comment IDs will be automatically be written in an external file that will ensure a comment is not replied to more than once
+The subreddit where the bot is active is currently /r/Competitiveoverwatch. This can be changed in line 23 of OWLBot.py if desired
+
+Comment IDs will be automatically be written in an external file which ensures a comment is not replied to more than once.
 
 ### Prerequisites
 ```
