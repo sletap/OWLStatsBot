@@ -16,7 +16,7 @@ Beautiful Soup 4
 ```
 ### Usage
 start the bot with ```python3 OWLSiteStats.py```
-while running, when a user comments with ```!stats [PLAYER NAME]``` The reddit bot will then fetch stats from a list, format it, and post it to the user
+now, when a user comments with ```!stats [PLAYER NAME]``` The reddit bot will then fetch stats from a list, format it, and post it to the user
 
 ## File Rundown
 * OWLBot.py - Reddit bot that runs using information from OWLSiteStats.py
