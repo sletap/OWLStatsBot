@@ -1,5 +1,7 @@
 # OWLStatsBot
-An Overwatch Statistics bot that pulls statistics on Overwatch League players from Overwatch League or over.gg by extracting information from HTML files. The Overwatch League Statistics API is not public at the moment, so this is the best current alternative 
+An Overwatch Statistics bot that pulls statistics on Overwatch League players from Overwatch League or over.gg by extracting information from HTML files. The Overwatch League Statistics API is not public at the moment, so this is the best current alternative.
+
+Note: Development has currently stopped. Code written here has been rewritten and optimized for use in the Rocket League Stats Bot project, also on my GitHub account.
 
 ## Getting Started 
 There are two different standalone files that are capable of extracting information. OWLSiteStats and OverGGStats. OWLSiteStats is preferred, as it has the most content, but OverGG contains some released players that are no longer on the OWL website.
